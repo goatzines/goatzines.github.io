@@ -3,10 +3,118 @@
     <title>goatzines</title>
     <link href="https://goatzines.com/feed.xml" rel="self" />
     <link href="https://goatzines.com" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2025-06-19T19:46:59-04:00</updated>
     <author>
         <name>goat</name>
     </author>
     <id>https://goatzines.com</id>
 
+    <entry>
+        <title>page one</title>
+        <author>
+            <name>goat</name>
+        </author>
+        <link href="https://goatzines.com/posts/page-one/"/>
+        <id>https://goatzines.com/posts/page-one/</id>
+
+        <updated>2025-06-19T19:46:28-04:00</updated>
+            <summary>
+                <![CDATA[
+                    whee
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    whee
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test 3</title>
+        <author>
+            <name>goat</name>
+        </author>
+        <link href="https://goatzines.com/posts/test-3/"/>
+        <id>https://goatzines.com/posts/test-3/</id>
+        <media:content url="https://goatzines.com/media/posts/4/tumblr_4afda2e46bc8349f044bbe6f690c47e5_36107936_2048.jpg" medium="image" />
+
+        <updated>2025-06-19T19:17:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://goatzines.com/media/posts/4/tumblr_4afda2e46bc8349f044bbe6f690c47e5_36107936_2048.jpg" alt="" />
+                    gggggggggggggggggggggggggggggggggggggggg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://goatzines.com/media/posts/4/tumblr_4afda2e46bc8349f044bbe6f690c47e5_36107936_2048.jpg" class="type:primaryImage" alt="" /></p>
+                <p>gggggggggggggggggggggggggggggggggggggggg</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>title 2</title>
+        <author>
+            <name>goat</name>
+        </author>
+        <link href="https://goatzines.com/posts/title-2/"/>
+        <id>https://goatzines.com/posts/title-2/</id>
+        <media:content url="https://goatzines.com/media/posts/3/oh-fuck-god.jpg" medium="image" />
+
+        <updated>2025-06-19T19:16:33-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://goatzines.com/media/posts/3/oh-fuck-god.jpg" alt="alt 2" />
+                    tee hee
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://goatzines.com/media/posts/3/oh-fuck-god.jpg" class="type:primaryImage" alt="alt 2" /></p>
+                <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.943%;">tee</td>
+<td style="width: 49.943%;">hee</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Title 1</title>
+        <author>
+            <name>goat</name>
+        </author>
+        <link href="https://goatzines.com/posts/title-1/"/>
+        <id>https://goatzines.com/posts/title-1/</id>
+
+        <updated>2025-06-19T19:14:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Heading caption 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="heading">
+      Heading
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://goatzines.com/media/posts/2/yfjxpcgiogky.jpg" height="1474" width="1080" alt="test img 1" />
+      <figcaption>caption 1</figcaption>
+    </figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
