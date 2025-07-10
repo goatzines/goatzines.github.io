@@ -6,6 +6,6 @@
 blockquote {
   @apply px-4 py-2 bg-gray-100 my-4 dark:bg-gray-900;
 }
-.dark {
+iframe {
   font-family:"NK57 Monospace Sc" !important;
 }
