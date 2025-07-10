@@ -2,10 +2,13 @@ window.CUSDIS = {};
 const makeIframeContent = (target) => {
   const host = target.dataset.host || "https://cusdis.com";
   const iframeJsPath = target.dataset.iframe || `${host}/js/iframe.umd.js`;
-  const cssPath = `https://raw.githubusercontent.com/goatzines/goatzines.github.io/refs/heads/main/extras/style.css`;
+  const cssPath = `https://cusdis.com/js/style.css`;
   return `<!DOCTYPE html>
 <html>
   <head>
+    <style>
+.dark {color: red !important}
+    </style>
     <link rel="stylesheet" href="${cssPath}">
     <base target="_parent" />
     <link>
